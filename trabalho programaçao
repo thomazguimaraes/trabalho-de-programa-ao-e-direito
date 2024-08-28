@@ -1,0 +1,49 @@
+Java é uma linguagem de programação extremamente versátil. Pode ser usado para programar softwares e aplicativos para muitos sistemas operacionais e dispositivos diferentes, incluindo dispositivos IoT, celulares e computadores.
+O C++ é uma linguagem de programação de propósito geral, criada como uma extensão da linguagem C. Sua sintaxe permite programação de alto nível e oferece controle direto sobre o hardware.
+Em Python, uma função é um bloco de código que realiza uma tarefa específica. Ela é definida usando a palavra-chave def , seguida pelo nome da função e parênteses. As funções oferecem uma maneira de organizar e reutilizar código, promovendo a legibilidade e a eficiência.
+
+Java
+import java.util.Scanner;
+
+public class CalculadoraAreaCirculo {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Digite   
+ o raio do círculo: ");
+        double raio = scanner.nextDouble();
+
+        double area = Math.PI * Math.pow(raio, 2);
+
+        System.out.println("A área do círculo é: " + area);   
+
+    }
+}
+
+Python
+import math
+
+raio = float(input("Digite o raio do círculo: "))
+
+area = math.pi * raio**2
+
+print("A área do círculo é:", area)
+
+C++
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main() {
+    double raio, area;
+
+    cout << "Digite o raio do círculo: ";
+    cin >> raio;
+
+    area = M_PI * pow(raio, 2);
+
+    cout << "A área do círculo é: " << area << endl;
+
+    return 0;
+}
