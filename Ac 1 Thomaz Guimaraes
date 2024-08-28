@@ -8,3 +8,7 @@ Dados- são informações coletadas e organizadas de forma que possam ser analis
 Informaçao- é o resultado da análise e interpretação de dados. Enquanto os dados são simplesmente fatos ou observações brutas, a informação é o que se obtém quando esses dados são organizados, contextualizados e interpretados de forma a fornecer significado e valor
 Zero-Rating- é uma prática onde provedores de serviços de internet (ISPs) ou operadoras de telefonia móvel permitem que certos aplicativos, serviços ou conteúdos sejam acessados sem que isso consuma a franquia de dados do usuário.
 Memoria- refere-se aos componentes e sistemas responsáveis pelo armazenamento e acesso de dados e instruções que a máquina utiliza para operar e executar tarefas. 
+
+Java é uma linguagem de programação extremamente versátil. Pode ser usado para programar softwares e aplicativos para muitos sistemas operacionais e dispositivos diferentes, incluindo dispositivos IoT, celulares e computadores.
+O C++ é uma linguagem de programação de propósito geral, criada como uma extensão da linguagem C. Sua sintaxe permite programação de alto nível e oferece controle direto sobre o hardware.
+Em Python, uma função é um bloco de código que realiza uma tarefa específica. Ela é definida usando a palavra-chave def , seguida pelo nome da função e parênteses. As funções oferecem uma maneira de organizar e reutilizar código, promovendo a legibilidade e a eficiência.
