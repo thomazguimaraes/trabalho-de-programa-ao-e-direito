@@ -1,0 +1,21 @@
+estrutura de repetiçao python
+
+Python
+contador = 0
+while contador < 5:
+    print(contador)
+    contador += 1
+
+
+estrutura de tomada de decisão python
+
+Python
+# Verificar se uma pessoa pode votar e tirar carteira de motorista
+idade = int(input("Digite sua idade: "))
+
+if idade >= 18:
+  print("Você pode votar.")
+  if idade >= 21:
+    print("Você pode tirar carteira de motorista.")
+else:
+  print("Você não pode votar nem tirar carteira de motorista.")
